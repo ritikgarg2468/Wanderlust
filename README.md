@@ -2,6 +2,8 @@
 
 Wanderlust is a full-stack rental listing platform that helps users easily find and post properties for rent. Built with Node.js, Express, EJS, and MongoDB, it offers a seamless experience for landlords and tenants with features like real-time form validation, RESTful APIs, review system, and error handling.
 
+Live - https://wanderlust-3u5p.onrender.com
+
 ---
 
 ## 🚀 Features
